@@ -33,4 +33,4 @@
 
 - LinkedIn
 - Portfolio
-- Email
+- Email : nokegermain@gmail.com
