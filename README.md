@@ -1,6 +1,6 @@
 # Salut 👋, moi c'est Germain
 
-## 🚀 Développeur Fullstack
+##  Développeur Fullstack
 
 - 🔭 Je travaille sur des plateformes SaaS
 - 🌱 Stack : Django, Next.js, React, PostgreSQL
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔥 Streak
+##  Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nokeCode&theme=tokyonight)
 
