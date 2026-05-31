@@ -29,7 +29,7 @@
 
 ---
 
-## 🌐 Contact
+##  Contact
 
 - LinkedIn
 - Portfolio
